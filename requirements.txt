@@ -1,0 +1,13 @@
+ccxt
+dataclasses
+ipython
+numpy
+pandas
+pymongo
+requests
+empyrical
+python-binance
+websocket-client
+msgpack
+scikit-learn
+mongoengine

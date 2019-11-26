@@ -1,0 +1,7 @@
+matplotlib
+fabric
+pytest
+pytest-datadir
+pytest-datafiles
+scikit-learn
+apache-airflow
